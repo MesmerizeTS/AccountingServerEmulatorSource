@@ -1,0 +1,7 @@
+D:\Coding\Projekte\TS3\Crack\Teamspeak 3 Server 3.0.11 (Crack + Emulator)\Bonus\AccountingServerEmulatorNewSource\TeamspeakAccountingServer\bin\Debug\PrivateKey.ecc
+D:\Coding\Projekte\TS3\Crack\Teamspeak 3 Server 3.0.11 (Crack + Emulator)\Bonus\AccountingServerEmulatorNewSource\TeamspeakAccountingServer\bin\Debug\TeamspeakAccountingServer.exe
+D:\Coding\Projekte\TS3\Crack\Teamspeak 3 Server 3.0.11 (Crack + Emulator)\Bonus\AccountingServerEmulatorNewSource\TeamspeakAccountingServer\bin\Debug\TeamspeakAccountingServer.pdb
+D:\Coding\Projekte\TS3\Crack\Teamspeak 3 Server 3.0.11 (Crack + Emulator)\Bonus\AccountingServerEmulatorNewSource\TeamspeakAccountingServer\bin\Debug\BouncyCastle.Crypto.dll
+D:\Coding\Projekte\TS3\Crack\Teamspeak 3 Server 3.0.11 (Crack + Emulator)\Bonus\AccountingServerEmulatorNewSource\TeamspeakAccountingServer\obj\x86\Debug\ServerEmulator.csprojResolveAssemblyReference.cache
+D:\Coding\Projekte\TS3\Crack\Teamspeak 3 Server 3.0.11 (Crack + Emulator)\Bonus\AccountingServerEmulatorNewSource\TeamspeakAccountingServer\obj\x86\Debug\TeamspeakAccountingServer.exe
+D:\Coding\Projekte\TS3\Crack\Teamspeak 3 Server 3.0.11 (Crack + Emulator)\Bonus\AccountingServerEmulatorNewSource\TeamspeakAccountingServer\obj\x86\Debug\TeamspeakAccountingServer.pdb

@@ -1,0 +1,6 @@
+D:\Coding\Projekte\TS3\Crack\Teamspeak 3 Server 3.0.11 (Crack + Emulator)\Bonus\AccountingServerEmulatorNewSource\TSTest\bin\Debug\TSTest.exe.config
+D:\Coding\Projekte\TS3\Crack\Teamspeak 3 Server 3.0.11 (Crack + Emulator)\Bonus\AccountingServerEmulatorNewSource\TSTest\bin\Debug\TSTest.exe
+D:\Coding\Projekte\TS3\Crack\Teamspeak 3 Server 3.0.11 (Crack + Emulator)\Bonus\AccountingServerEmulatorNewSource\TSTest\bin\Debug\TSTest.pdb
+D:\Coding\Projekte\TS3\Crack\Teamspeak 3 Server 3.0.11 (Crack + Emulator)\Bonus\AccountingServerEmulatorNewSource\TSTest\obj\Debug\TSTest.csprojResolveAssemblyReference.cache
+D:\Coding\Projekte\TS3\Crack\Teamspeak 3 Server 3.0.11 (Crack + Emulator)\Bonus\AccountingServerEmulatorNewSource\TSTest\obj\Debug\TSTest.exe
+D:\Coding\Projekte\TS3\Crack\Teamspeak 3 Server 3.0.11 (Crack + Emulator)\Bonus\AccountingServerEmulatorNewSource\TSTest\obj\Debug\TSTest.pdb
